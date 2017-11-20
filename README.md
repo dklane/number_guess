@@ -5,6 +5,8 @@
 ## Problem statement:
 Write a program that plays the traditional “guess-a-number” game. The program establishes the “winning” number between 1 and 10 and then allows the user to try to guess the number.
 ## Requirements:
+1. An algorithm is defined in this README.
+1. A test plan that includes input values and expected outputs is defined in this README.
 1. Sets the maximum number as a variable (number_max).
 1. Uses the randint() random number function to pick the number.
 1. Accepts user input.
