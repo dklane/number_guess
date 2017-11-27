@@ -12,12 +12,12 @@ Write a program that plays the traditional “guess-a-number” game. The progra
 1. Accepts user input.
 1. Checks that input is numeric.
 1. Converts numeric input to an integer.
-1. Checks that the guess is in the range of valid numbers (1-10).
+1. Checks that the guess is in the range of valid numbers (1 to number_max).
 1. Reports if the guess is too low, too high, out of range, or not a number.
-1. Uses a while loop to give the user 3 tries to guess the answer.
-1. The while statement goes ahead of the input() statement.
-1. The while loop requires the programmer to reindent various blocks.
-1. The while loop requires the programmer to reword some of the messages.
+1. Gives the user 6 tries to guess the answer.
+1. The loop statement goes ahead of the input() statement.
+1. The loop requires the programmer to reindent various blocks.
+1. The loop requires the programmer to reword some of the messages.
 
 ## Algorithm (include elements of your algorithm as program comments).
 
